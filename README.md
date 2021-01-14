@@ -1,16 +1,18 @@
-# Hello, Gyus!! I'm Fellipe! :man: :v:
+# Hello, Guys!! I'm Fellipe! :man: :v:
 
 ## About Me
 
 * I live in :brazil: :sunglasses:
 * I'm student of Software Engineering at the University of Brasilia and in love with web/mobile development :technologist: :iphone: :star_struck:
-* Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore)
+* Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="codemore-logo.svg" width="40" align="center" /> :blue_heart:
 
 ## My Purpose
 
-I always looking for new experiences and on my journey, I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming. :earth_americas: :purple_heart:
+***I always looking for new experiences and on my journey, I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming.*** :earth_americas: :purple_heart:
 
-## Connect with me
+## Reach Me Out
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipe-araujo-1a97b31a4/)](https://www.linkedin.com/in/fellipe-araujo-1a97b31a4/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/_codemore/)](https://www.instagram.com/_codemore/)
 
 ## My Skills
 
@@ -35,12 +37,6 @@ I always looking for new experiences and on my journey, I always take with me a 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&disable_animations=false" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
-</p>
-
-## My Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo" alt="Top Languages" title="Top Languages" />
 </p>
 
 <!--
