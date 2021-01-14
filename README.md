@@ -4,7 +4,7 @@
 
 * I live in :brazil: :sunglasses:
 * I'm student of Software Engineering at the University of Brasilia and in love with web/mobile development :technologist: :iphone: :star_struck:
-* Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="codemore-logo.svg" width="40" align="center" /> :blue_heart:
+* Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="codemore-logo.svg" width="30" align="center" /> :blue_heart:
 
 ## My Purpose
 
@@ -37,6 +37,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&disable_animations=false" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
+</p>
+
+## My Top 10 Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" title="Top Languages" />
 </p>
 
 <!--
