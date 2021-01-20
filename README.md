@@ -12,7 +12,7 @@
 
 ## Reach Me Out
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipe-araujo-1a97b31a4/)](https://www.linkedin.com/in/fellipe-araujo-1a97b31a4/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/_codemore/)](https://www.instagram.com/_codemore/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipearaujo)](https://www.linkedin.com/in/fellipearaujo) [![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/_codemore)](https://www.instagram.com/_codemore)
 
 ## My Skills
 
