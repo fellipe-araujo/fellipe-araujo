@@ -37,7 +37,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&disable_animations=false&custom_title=Fellipe's GitHub Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&theme=tokyonight&hide_border=true" alt="Top Languages" title="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" title="Top Languages" />
 </p>
 
 <!--
