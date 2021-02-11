@@ -12,7 +12,7 @@
 
 ## Reach Me Out
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipearaujo)](https://www.linkedin.com/in/fellipearaujo) [![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/_codemore)](https://www.instagram.com/_codemore)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipearaujo)](https://www.linkedin.com/in/fellipearaujo) [![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/fellipe.araujo_)](https://www.instagram.com/fellipe.araujo_)
 
 ## My Skills
 
@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" align="center" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" align="center" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" align="center" width="40" />
 </p>
