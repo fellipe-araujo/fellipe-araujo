@@ -3,7 +3,7 @@
 ## About Me
 
 * I live in :brazil: :sunglasses:
-* I'm student of Software Engineering at the University of Brasilia and in love with web/mobile development :technologist: :iphone: :star_struck:
+* I'm student of Software Engineering at the University of Brasilia and in love with web&mobile development :technologist: :iphone: :star_struck:
 * Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="codemore-logo.svg" width="30" align="center" /> :blue_heart:
 
 ## My Purpose
@@ -12,7 +12,9 @@
 
 ## Reach Me Out
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipearaujo)](https://www.linkedin.com/in/fellipearaujo) [![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/fellipe.araujo_)](https://www.instagram.com/fellipe.araujo_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipearaujo)](https://www.linkedin.com/in/fellipearaujo)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/fellipe.araujo_)](https://www.instagram.com/fellipe.araujo_)
+[![Gmail Badge](https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipe.eng.soft@gmail.com)](mailto:fellipe.eng.soft@gmail.com)
 
 ## My Skills
 
