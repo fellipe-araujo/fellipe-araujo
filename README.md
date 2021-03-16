@@ -1,14 +1,11 @@
-# Hello, Guys!! I'm Fellipe! :man: :v:
-
 ## About Me
 
-* I live in :brazil: :sunglasses:
-* I'm student of Software Engineering at the University of Brasilia and in love with web&mobile development :technologist: :iphone: :star_struck:
+* Full-Stack Web&Mobile Developer :technologist:
 * Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="codemore-logo.svg" width="30" align="center" /> :blue_heart:
 
 ## My Purpose
 
-***I always looking for new experiences and on my journey, I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming.*** :earth_americas: :purple_heart:
+***I always looking for new experiences, and on my journey, I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming.*** :earth_americas: :purple_heart:
 
 ## Reach Me Out
 
