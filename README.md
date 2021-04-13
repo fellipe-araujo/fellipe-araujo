@@ -1,6 +1,6 @@
 ## About Me
 
-* Full-Stack Web&Mobile Developer :technologist:
+* Full-Stack Web & Mobile Developer :technologist:
 * Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="LogoBackground.svg" width="30" align="center" /> :purple_heart:
 
 ## My Purpose
@@ -15,23 +15,21 @@
 
 ## My Skills
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" align="center" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" align="center" width="40" />
-</p>
+![React Badge](https://img.shields.io/badge/-React-090909?style=flat-square&logo=React&logoColor=61DAFB)
+![Node Badge](https://img.shields.io/badge/-Node.js-090909?style=flat-square&logo=Node.js&logoColor=339933)
+![JS Badge](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![TS Badge](https://img.shields.io/badge/-TypeScript-090909?style=flat-square&logo=TypeScript&logoColor=3178C6)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-090909?style=flat-square&logo=HTML5&logoColor=E34F26)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-090909?style=flat-square&logo=CSS3&logoColor=1572B6)
+![Java Badge](https://img.shields.io/badge/-Java-090909?style=flat-square&logo=Java&logoColor=FFFFFF)
+![Flutter Badge](https://img.shields.io/badge/-Flutter-090909?style=flat-square&logo=Flutter&logoColor=02569B)
+![Git Badge](https://img.shields.io/badge/-Git-090909?style=flat-square&logo=Git&logoColor=F05032)
+![Python Badge](https://img.shields.io/badge/-Python-090909?style=flat-square&logo=Python&logoColor=3776AB)
+![Docker Badge](https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=Docker&logoColor=2496ED)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-090909?style=flat-square&logo=MongoDB&logoColor=47A248)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-090909?style=flat-square&logo=MySQL&logoColor=4479A1)
+![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-090909?style=flat-square&logo=PostgreSQL&logoColor=336791)
+
 
 ## My GitHub Stats
 
