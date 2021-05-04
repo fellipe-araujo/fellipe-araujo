@@ -1,6 +1,6 @@
 ## About Me
 
-* Full-Stack Web & Mobile Developer :technologist:
+* Full-Stack Developer :computer: :iphone:
 * Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="LogoBackground.svg" width="30" align="center" /> :purple_heart:
 
 ## My Purpose
@@ -35,8 +35,8 @@
 ## My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_border=true&disable_animations=false&custom_title=Fellipe's GitHub Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" width="400px"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fellipe-araujo&theme=gotham&hide_border=true" alt="Streak" title="Streak" width="400px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_border=true&disable_animations=false&custom_title=Fellipe's GitHub Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" width="480px"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fellipe-araujo&theme=gotham&hide_border=true" alt="Streak" title="Streak" width="420px" />
 </p>
 
 <!--
