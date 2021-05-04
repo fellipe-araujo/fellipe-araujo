@@ -35,8 +35,8 @@
 ## My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Fellipe's GitHub Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" width="460px"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fellipe-araujo&theme=gotham&border=4FA889" alt="Streak" title="Streak" width="400px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Fellipe's GitHub Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" width="440px"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fellipe-araujo&theme=gotham&border=4FA889" alt="Streak" title="Streak" width="380px" />
 </p>
 
 <!--
