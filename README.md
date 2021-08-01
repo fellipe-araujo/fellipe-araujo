@@ -1,44 +1,20 @@
 <h1 align="center">Hi, Guys! I'm Fellipe!</h1>
 
-## About Me
+<p  align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
 
-* Full-Stack Developer :computer: :iphone:
-* Creator of Digital Content on [@_codemore](https://www.instagram.com/_codemore) <img src="LogoBackground.svg" width="30" align="center" /> :purple_heart:
-
-## My Purpose
-
-***I always looking for new experiences, and on my journey, I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming.*** :earth_americas: :blue_heart:
-
-## Reach Me Out
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipearaujo)](https://www.linkedin.com/in/fellipearaujo)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-B353A5?style=flat-square&labelColor=B353A5&logo=instagram&logoColor=white&link=https://www.instagram.com/fellipe.araujo_)](https://www.instagram.com/fellipe.araujo_)
-[![Gmail Badge](https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-EA4635?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipe.eng.soft@gmail.com)](mailto:fellipe.eng.soft@gmail.com)
-
-## My Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-090909?style=flat-square&logo=React&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-090909?style=flat-square&logo=Node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript&logoColor=F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/-TypeScript-090909?style=flat-square&logo=TypeScript&logoColor=3178C6" alt="TS" />
-  <img src="https://img.shields.io/badge/-HTML5-090909?style=flat-square&logo=HTML5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-090909?style=flat-square&logo=CSS3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Java-090909?style=flat-square&logo=Java&logoColor=FFFFFF" alt="Java" />
-  <img src="https://img.shields.io/badge/-Flutter-090909?style=flat-square&logo=Flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-Git-090909?style=flat-square&logo=Git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/-Python-090909?style=flat-square&logo=Python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=Docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/-MongoDB-090909?style=flat-square&logo=MongoDB&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-MySQL-090909?style=flat-square&logo=MySQL&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-090909?style=flat-square&logo=PostgreSQL&logoColor=336791" alt="PostgreSQL" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&layout=compact&theme=nightowl&langs_count=4" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
 </p>
 
-## My GitHub Stats
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2351A15E.svg?style=for-the-badge&logo=Node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23FF2D20.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2347A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=for-the-badge&logo=PostgreSQL&logoColor=%23336791)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
-</p>
+<h1></h1>
+
+<a href="https://instagram.com/_codemore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fellipearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-%23EA4635?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
 
 <!--
 **fellipe-araujo/fellipe-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
