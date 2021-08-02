@@ -30,7 +30,7 @@
   <a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
 
-<h1></h1>
+<!--
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Podcastr&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
@@ -41,11 +41,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Delivery&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
 </div>
 
-
-
-<div>
-  
-</div>
+-->
 
 
 <!--
