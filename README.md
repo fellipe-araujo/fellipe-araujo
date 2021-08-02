@@ -3,10 +3,20 @@
 <p  align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
 
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&layout=compact&theme=nightowl&langs_count=4" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&layout=compact&theme=nightowl&langs_count=4" alt="Fellipe's GitHub Stats" title="Most Used Languages" />
 </p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2351A15E.svg?style=for-the-badge&logo=Node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23FF2D20.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2347A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=for-the-badge&logo=PostgreSQL&logoColor=%23336791)
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank" />
+  <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6" target="_blank" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/Node.js-%2351A15E.svg?style=for-the-badge&logo=Node.js&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/java-%23FF2D20.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2347A248" target="_blank" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=for-the-badge&logo=PostgreSQL&logoColor=%23336791" target="_blank" />
+</div>
 
 <h1></h1>
 
