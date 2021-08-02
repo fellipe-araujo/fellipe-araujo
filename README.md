@@ -1,21 +1,24 @@
-<h1 align="center">Hi, Guys! I'm Fellipe!</h1>
-
-<p  align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&border_color=4FA889&disable_animations=false&custom_title=Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
-
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&layout=compact&theme=nightowl&langs_count=4" alt="Fellipe's GitHub Stats" title="Most Used Languages" />
-</p>
+<h1>Hii, Guys! I'm Fellipe!!</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" target="_blank" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank" />
-  <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6" target="_blank" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/Node.js-%2351A15E.svg?style=for-the-badge&logo=Node.js&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/java-%23FF2D20.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank" />
-  <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2347A248" target="_blank" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=for-the-badge&logo=PostgreSQL&logoColor=%23336791" target="_blank" />
+  <img align="center" alt="Fellipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Fellipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Fellipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fellipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Fellipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fellipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fellipe-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Fellipe-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Fellipe-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Fellipe-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+<p></p>
+
+<div  align="center">
+  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&border_color=A77DCB&disable_animations=false" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
+
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&layout=compact&theme=nightowl&langs_count=8&border_color=A77DCB" alt="Fellipe's GitHub Stats" title="Most Used Languages" />
 </div>
 
 <h1></h1>
@@ -26,6 +29,24 @@
   <a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-%23EA4635?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
+
+<h1></h1>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Podcastr&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Letmeask&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Happy&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Ecoleta&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=BigGameSurvey&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Delivery&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
+</div>
+
+
+
+<div>
+  
+</div>
+
 
 <!--
 **fellipe-araujo/fellipe-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
