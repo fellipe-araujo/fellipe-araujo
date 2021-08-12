@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/fellipe-araujo/ignite-projects" target=_blank>
-    <img with="" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=ignite-projects&theme=midnight-purple&border_color=9644F4" alt="Ignite Projects" title="Ignite Projects" />
+    <img with="" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=ignite-projects&theme=midnight-purple&border_color=9644F4&show_owner=true" alt="Ignite Projects" title="Ignite Projects" />
   </a>
 </div
 
