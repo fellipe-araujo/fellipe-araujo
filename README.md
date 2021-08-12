@@ -30,18 +30,11 @@
   <a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
 
-<!--
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Podcastr&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Letmeask&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Happy&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Ecoleta&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=BigGameSurvey&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=Delivery&theme=react&border_color=60D9FA" alt="Fellipe's GitHub Stats" />
-</div>
-
--->
+  <a href="https://github.com/fellipe-araujo/ignite-projects" target=_blank>
+    <img with="" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=ignite-projects&theme=midnight-purple&border_color=9644F4" alt="Ignite Projects" title="Ignite Projects" />
+  </a>
+</div
 
 
 <!--
