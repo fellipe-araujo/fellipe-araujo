@@ -1,5 +1,27 @@
-<h1>Hii, Guys! I'm Fellipe!!</h1>
+<h1>Fellipe Araujo</h1>
 
+
+<a href="https://instagram.com/_codemore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=for-the-badge&logo=instagram&logoColor=00B37E" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fellipearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=00B37E" target="_blank"></a>
+<a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-121214?style=for-the-badge&logo=gmail&logoColor=00B37E" target="_blank"></a>
+<a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-121214?style=for-the-badge&logo=discord&logoColor=00B37E" target="_blank"></a>
+
+
+<p>Enthusiast and passionate about web & mobile development technologies: React.js, React Native and TypeScript.</p>
+
+<p>I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming. 🌎💚</p>
+
+<h1></h1>
+
+<div  align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=00B37E&disable_animations=false&custom_title=Fellipe's Github Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
+
+  <a href="https://github.com/fellipe-araujo/ignite-projects" target=_blank>
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=ignite-projects&theme=gotham&border_color=00B37E&show_owner=true" alt="Ignite Projects" title="Ignite Projects" />
+  </a>
+</div>
+
+<!--
 <div align="center">
   <img align="center" alt="Fellipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fellipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
@@ -13,28 +35,7 @@
   <img align="center" alt="Fellipe-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-<p></p>
-
-<div  align="center">
-  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&border_color=A77DCB&disable_animations=false" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
-
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipe-araujo&layout=compact&theme=nightowl&langs_count=8&border_color=A77DCB" alt="Fellipe's GitHub Stats" title="Most Used Languages" />
-</div>
-
-<h1></h1>
-
-<p align="center">
-  <a href="https://instagram.com/_codemore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fellipearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-%23EA4635?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/fellipe-araujo/ignite-projects" target=_blank>
-    <img with="" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=ignite-projects&theme=midnight-purple&border_color=9644F4&show_owner=true" alt="Ignite Projects" title="Ignite Projects" />
-  </a>
-</div
+-->
 
 
 <!--
