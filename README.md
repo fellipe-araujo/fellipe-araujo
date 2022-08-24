@@ -14,7 +14,7 @@
 <h1></h1>
 
 <div  align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=00B37E&disable_animations=false&custom_title=Fellipe's Github Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fellipe-araujo&hide=stars&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&border_color=00B37E&disable_animations=false&custom_title=GitHub-Stats" alt="Fellipe's GitHub Stats" title="Fellipe's GitHub Stats" />
 
   <a href="https://github.com/fellipe-araujo/ignite-projects" target=_blank>
     <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=fellipe-araujo&repo=ignite-projects&theme=gotham&border_color=00B37E&show_owner=true" alt="Ignite Projects" title="Ignite Projects" />
