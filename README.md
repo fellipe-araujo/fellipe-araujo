@@ -1,15 +1,27 @@
 <h1>Fellipe Araujo</h1>
 
 
-<a href="https://instagram.com/_codemore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=for-the-badge&logo=instagram&logoColor=00B37E" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fellipearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=00B37E" target="_blank"></a>
-<a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-121214?style=for-the-badge&logo=gmail&logoColor=00B37E" target="_blank"></a>
-<a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-121214?style=for-the-badge&logo=discord&logoColor=00B37E" target="_blank"></a>
 
+<table>
+  <tr>
+  <td valign="top">
+  <a href="https://instagram.com/_codemore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=for-the-badge&logo=instagram&logoColor=00B37E" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fellipearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=00B37E" target="_blank"></a>
+  <a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-121214?style=for-the-badge&logo=gmail&logoColor=00B37E" target="_blank"></a>
+  <a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-121214?style=for-the-badge&logo=discord&logoColor=00B37E" target="_blank"></a>
 
-<p>Enthusiast and passionate about web & mobile development technologies: React.js, React Native and TypeScript.</p>
-
-<p>I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming. 🌎💚</p>
+  <p>Enthusiast and passionate about web & mobile development technologies: React.js, React Native and TypeScript.</p>
+  <p>I always take with me a phrase that sums up my purpose as a developer: Transform the world and provide new experiences to people through programming. 🌎💚</p>
+  </td>
+  <td valign="top">
+    <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+  </td>
+  </tr>
+</table>
+ 
+<!--
+![Logo](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+-->
 
 <h1></h1>
 
