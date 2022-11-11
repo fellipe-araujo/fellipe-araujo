@@ -28,7 +28,7 @@
 </div>
   </td>
   <td valign="top">
-    <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+    <img align="center" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
   </td>
   </tr>
 </table>
