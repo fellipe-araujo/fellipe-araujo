@@ -7,7 +7,7 @@
   <td valign="top">
   <a href="https://instagram.com/_codemore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0F0F10?style=for-the-badge&logo=instagram&logoColor=3333FF" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fellipearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0F0F10?style=for-the-badge&logo=linkedin&logoColor=3333FF" target="_blank"></a>
-  <a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-fellipe.eng.soft@gmail.com-0F0F10?style=for-the-badge&logo=gmail&logoColor=3333FF" target="_blank"></a>
+  <a href="mailto:fellipe.eng.soft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0F0F10?style=for-the-badge&logo=gmail&logoColor=3333FF" target="_blank"></a>
   <a href="https://discords.com/bio/p/codemore"><img src="https://img.shields.io/badge/-Discord-0F0F10?style=for-the-badge&logo=discord&logoColor=3333FF" target="_blank"></a>
 
   <p>Enthusiast and passionate about web & mobile development technologies: React.js, React Native and TypeScript.</p>
